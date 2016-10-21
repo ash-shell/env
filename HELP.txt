@@ -1,0 +1,9 @@
+Usage:
+
+    env:get
+        Returns the current .env filename that will be loaded
+        when ash starts up.
+
+    env:set `$env_filename`
+        Sets the new `$env_filename` that will be loaded when
+        ash starts up.

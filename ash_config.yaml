@@ -1,0 +1,4 @@
+name: env
+package: github.com/ash-shell/env
+default_alias: env
+callable_prefix: Env
